@@ -1,0 +1,18 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"eval.h": "c",
+		"setjmp.h": "c",
+		"stdio.h": "c",
+		"unistd.h": "c",
+		"rl.h": "c",
+		"parser.h": "c",
+		"dispose_cmd.h": "c",
+		"stdlib.h": "c",
+		"make_cmd.h": "c",
+		"libft.h": "c",
+		"command.h": "c",
+		"syntax.h": "c",
+		"error.h": "c"
+	}
+}
